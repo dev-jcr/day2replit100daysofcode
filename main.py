@@ -1,4 +1,4 @@
-#Challenge
+# Challenge
 print ("""
 
 Getting to know you!
@@ -17,7 +17,8 @@ print (favMusic)
 print ("living in ")
 print (location)
 
-#Course activity:
+# Course activity:
+
 #Variables
 #myName = input ("What's your name?: ")
 #print (myName)
