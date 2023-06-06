@@ -18,7 +18,6 @@ print ("living in ")
 print (location)
 
 # Course activity:
-
 #Variables
 #myName = input ("What's your name?: ")
 #print (myName)
